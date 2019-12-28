@@ -7,3 +7,4 @@
 6. compare the triplets
 7. plus minus
 8. min max sum
+9. simple array sum
