@@ -9,3 +9,4 @@
 8. min max sum
 9. simple array sum
 10. staircase sum
+11. time conversion
