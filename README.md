@@ -6,3 +6,4 @@
 5. grading students
 6. compare the triplets
 7. plus minus
+8. min max sum
