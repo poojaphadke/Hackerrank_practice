@@ -5,3 +5,4 @@
 4. diagonal differences
 5. grading students
 6. compare the triplets
+7. plus minus
