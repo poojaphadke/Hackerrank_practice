@@ -4,3 +4,4 @@
 3. birthday cake candles
 4. diagonal differences
 5. grading students
+6. compare the triplets
