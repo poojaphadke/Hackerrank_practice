@@ -15,4 +15,4 @@
 14. breaking records
 15. divisible sum pairs
 16. drawing book
-17. 
+17. inheritance
