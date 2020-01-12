@@ -16,4 +16,4 @@
 15. divisible sum pairs
 16. drawing book
 17. inheritance
-18. 
+18. kangaroo
